@@ -12,7 +12,7 @@
 [Тест-кейс](https://docs.google.com/spreadsheets/d/1CC4AyR1p8yBP6JZQ34phkennrsbOu05h_AmyGpmQTmY/edit?usp=sharing)
 
 В результате тестирования выявлены следующие дефекты:
-[Неверное итоговое значение при пополнении счёта VIP-клиента](https://github.com/AlexeyPotapenko/HW-2-Money-Transfer/issues/1#issue-946401419)
+[Неверное итоговое значение при пополнении счёта VIP-клиента](https://github.com/AlexeyPotapenko/Hw-money-transfer/issues/1#issue-961662011)
 
 В качестве тестовых данных использовались данные:
 
